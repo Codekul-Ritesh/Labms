@@ -4,7 +4,7 @@ function AppointmentScheduling() {
   return (
     <div>
       <h1>
-        AppointmentScheduling page
+        AppointmentScheduling page a
       </h1>
     </div>
   )
